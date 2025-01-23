@@ -1,0 +1,27 @@
+{
+    "en":{
+        "home":"Home",
+        "cotizacion":"Quotations",
+        "operacion": "Operations",
+        "factura": "Invoices",
+        "logout": "Logout",
+        "flag":"020-flag.svg"
+
+    },
+    "es":{
+        "home": "Dashboard",
+        "cotizacion": "Listado de Cotización",
+        "operacion": "Listado de Operación",
+        "factura": "Listado de Facturas",
+        "logout": "Cerrar sesión",
+        "flag":"016-spain.svg"
+    },
+    "de":{
+        "home": "Startseite",
+        "cotizacion": "Angebote",
+        "operacion": "Operationen",
+        "factura": "Rechnungen",
+        "logout": "Abmelden",
+        "flag":"017-germany.svg"
+    }
+}
